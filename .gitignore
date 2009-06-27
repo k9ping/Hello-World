@@ -1,0 +1,4 @@
+.DS/Store
+/build
+/Hello World.xcodeproj/*.mode1v3
+/Hello World.xcodeproj/*.pbxuser
